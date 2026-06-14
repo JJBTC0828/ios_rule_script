@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,liquid.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,pancakeswap.finance
 DOMAIN-SUFFIX,poloniex.com
 DOMAIN-SUFFIX,sushi.com
