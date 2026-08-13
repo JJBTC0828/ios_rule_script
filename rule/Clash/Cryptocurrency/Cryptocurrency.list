@@ -48,5 +48,8 @@ DOMAIN-SUFFIX,poloniex.com
 DOMAIN-SUFFIX,sushi.com
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,zb.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitget.cc
+DOMAIN-SUFFIX,bitget.site
+DOMAIN-SUFFIX,bitgetimg.com
 DOMAIN-KEYWORD,bitget
-PROCESS-NAME,bitget.exe
